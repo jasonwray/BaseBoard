@@ -17,4 +17,4 @@ A Family Calendar for board.fun
 
 ![Meals](mealsdark.png)
 
-![Sticky Notes](stickdark.png)
+![Sticky Notes](stickydark.png)
